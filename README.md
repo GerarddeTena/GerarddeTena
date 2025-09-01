@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gerard de Tena</h1>
-<h3 align="center">A passionate frontend developer from Andorra</h3>
+<h3 align="center">A passionate fullStack developer from Andorra</h3>
 <img align="right" src="./assests/Human_Thin.gif"/>
 
-- 🔭 I’m currently working on [GAMA](https://github.com/GerarddeTena/GAMA)
+- 🔭 I’m currently working at [The British College of Andorra](https://britishcollegeandorra.com)
 
 - 🌱 I’m currently learning **Angular, Spring Boot**
 
