@@ -2,13 +2,13 @@
 <h3 align="center">A passionate fullStack developer from Andorra</h3>
 <img align="right" src="./assests/Human_Thin.gif"/>
 
-- 🔭 I’m currently working at [The British College of Andorra](https://britishcollegeandorra.com)
+- 🔭 I’m currently working at [Raona](https://raona.com)
 
-- 🌱 I’m currently learning **Angular, Spring Boot**
+- 🌱 I’m currently learning **RAG and FineTuning models using Hugging Face**
 
-- 👯 I’m looking to collaborate on [ReactJS](https://github.com/facebook/react)
+- 👯 I’m looking to collaborate on any kind of project that reqiures an architectural enhancement.
 
-- 🤝 I’m looking for help with **Comming project w. Angular**
+- 🤝 I’m looking for help with **GeliShell**, my new custom shell.
 
 - 💬 Ask me about **Anything i can response *v***
 
